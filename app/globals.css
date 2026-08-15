@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { font-family: 'Plus Jakarta Sans', Inter, sans-serif; background:#0a0a0f; color:white; }
+.glass { backdrop-filter: blur(16px); background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); }
